@@ -1,0 +1,6 @@
+class kookie{
+    constructor(){}
+    kth(){
+        
+    }
+}
